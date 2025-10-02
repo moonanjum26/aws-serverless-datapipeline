@@ -70,5 +70,10 @@ SNS → Topic to send email notifications on Glue job completion/failure.
 
 CloudWatch → Monitor pipeline execution and logs.
 
+Images of the analysis done on Quicksight
+
 <img width="983" height="652" alt="image" src="https://github.com/user-attachments/assets/63e2429b-f2f1-4df3-a473-48dc10373e0c" />
+
+
+<img width="990" height="707" alt="image" src="https://github.com/user-attachments/assets/3d815ea7-000f-492f-a9cc-38a89caef0c8" />
 
