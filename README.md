@@ -6,7 +6,7 @@ It also includes EventBridge + SNS for job notifications and CloudWatch for moni
 
 📌 Architecture Diagram 
 
-![Pipeline Architecture](docs/aws_serverless_pipeline_architecture.svg)
+![Pipeline Architecture](docs/aws_serverless_pipeline.svg)
 
 Workflow:
 
