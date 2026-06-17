@@ -4,7 +4,9 @@ This project demonstrates a serverless data pipeline on AWS that ingests healthc
 
 It also includes EventBridge + SNS for job notifications and CloudWatch for monitoring.
 
-📌 Architecture
+📌 Architecture Diagram 
+
+![Pipeline Architecture](docs/aws_serverless_pipeline_architecture.svg)
 
 Workflow:
 
