@@ -4,7 +4,7 @@ This project demonstrates a serverless data pipeline on AWS that ingests healthc
 
 It also includes EventBridge + SNS for job notifications and CloudWatch for monitoring.
 
-📌 Architecture Diagram 
+Architecture Diagram 
 
 ![Pipeline Architecture](docs/aws_serverless_pipeline.svg)
 
@@ -28,7 +28,7 @@ SNS (Notification Service) → Sends email alerts on Glue job completion/failure
 
 CloudWatch (Monitoring) → Provides logs and metrics for Lambda & Glue.
 
-✨ Key Features
+Key Features
 
 Fully serverless data pipeline → no servers to manage.
 
@@ -44,7 +44,7 @@ Job tracking + alerts → EventBridge + SNS for real-time notifications.
 
 Monitoring & troubleshooting → CloudWatch logs and metrics.
 
-🛠️ Tech Stack
+Tech Stack
 
 AWS Services: S3, Lambda, Glue, Glue Data Catalog, Athena, QuickSight, EventBridge, SNS, CloudWatch
 
@@ -52,7 +52,7 @@ Language: Python (Lambda + Glue Scripts)
 
 Data Format: Raw CSV → Processed CSV/Parquet (optimized for Athena)
 
-🚀 Setup Guide
+Setup Guide
 
 S3 → Create a bucket and upload sample healthcare dataset.
 
